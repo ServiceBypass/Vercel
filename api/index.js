@@ -1,6 +1,6 @@
 export const config = { runtime: "edge" };
 
-const TARGET_BASE = "https://mute-morning-ad90.f0l1x1os.workers.dev";
+const TARGET_BASE = "http://188.213.199.99/";
 
 const STRIP_HEADERS = new Set([
   "host",
